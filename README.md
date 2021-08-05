@@ -7,4 +7,3 @@
 - 📫 How to reach me: Add me here
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can make more bugs than you
-
