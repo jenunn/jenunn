@@ -3,7 +3,6 @@
 - 🔭 I’m currently working at Puzzlepart
 - 🌱 I’m currently learning SharePoint, SPFx, Power Platform and Dynamics 365
 - 👯 I’m looking to collaborate on news and cool functionality within the Microsoft Platform
-- 🤔 I’m looking for help with Azure
 - 💬 Ask me about Power Automate, SharePoint, SPFx
 - 📫 How to reach me: Add me here
 - 😄 Pronouns: He/Him
