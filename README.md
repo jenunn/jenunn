@@ -5,5 +5,4 @@
 - 👯 I’m looking to collaborate on news and cool functionality within the Microsoft Platform
 - 💬 Ask me about Power Automate, SharePoint, SPFx
 - 📫 How to reach me: Add me here
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can make more bugs than you
